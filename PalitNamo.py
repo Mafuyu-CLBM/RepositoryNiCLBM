@@ -51,5 +51,7 @@ def main():
         elif choice == 'D':
             print("Done Shopping!")
             break
+        else:
+            print("Invalid choice")
 
 main()
